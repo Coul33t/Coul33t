@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Quentin, I have a PhD in Computer Science, and I love working on various projects
+### Hi there 👋 I'm Quentin, I have a PhD in Computer Science, and I love working on various projects, usually in Python or C++.
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coul33t)](https://github.com/anuraghazra/github-readme-stats) -->
 
