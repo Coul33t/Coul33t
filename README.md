@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Quentin, I have a PhD in Computer Science, and I love working on various projects
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coul33t)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coul33t)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coul33t&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Coul33t" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coul33t&langs_count=10&layout=compact" />
+</a>
 <!--
 **Coul33t/Coul33t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
