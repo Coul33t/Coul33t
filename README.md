@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coul33t)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Coul33t/Coul33t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
